@@ -12,7 +12,8 @@ const dev = {
     USER_POOL_ID: "eu-west-1_RELc4axkD",
     APP_CLIENT_ID: "6foidglit6v4r296fenuk9dcso",
     IDENTITY_POOL_ID: "eu-west-1:76a837de-c00a-430e-8be6-164c58e912d8"
-  }
+  },
+  STRIPE_KEY: "pk_test_cGI1K0HrckrFSBzZPPNPgxs100nh0Y6qG8",
 };
 
 const prod = {
@@ -29,7 +30,8 @@ const prod = {
     USER_POOL_ID: "eu-west-1_tQ4HPfDOY",
     APP_CLIENT_ID: "3n4r3s6jjctgbcp6p7l6oeb1mf",
     IDENTITY_POOL_ID: "eu-west-1:1242c9f6-1d0f-4aa9-baca-7bf03a35d665"
-  }
+  },
+  STRIPE_KEY: "pk_test_cGI1K0HrckrFSBzZPPNPgxs100nh0Y6qG8",
 };
 
 // Default to dev if not set
